@@ -66,8 +66,7 @@ The goal is to extract license plate number, county of registration and partial 
    Web scraping for gathering data 
 
 
-
-Proposal 3) TBD
+# Proposal 3) TBD
 
 
 
