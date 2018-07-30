@@ -15,6 +15,7 @@ Convolutional neural networks (CNNs) are the current method of choice for image 
 
 
 4. Who cares? If you're successful, what will the impact be?
+
 Current methods for cancer detection rely on tissue biopsy, chemical labeling/staining, and examination of the tissue by a pathologist. This work demonstrates the application and efficiency of deep learning algorithms in improving the diagnostic techniques in clinical and research activities related to cancer without any need to chemical staining. 
 
 
