@@ -20,6 +20,7 @@ Current methods for cancer detection rely on tissue biopsy, chemical labeling/st
 
 
 5. How will you present your work?
+
 I will use slide show. The final visuals are painted biopsies with different colors for different cellular biomolecules.
 
 
