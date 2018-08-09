@@ -1,0 +1,7 @@
+code/right-pca16/
+code/left-pca16/
+code/mask/
+.ipynb_checkpoints
+*.bak
+*.swp
+.DS_Store
