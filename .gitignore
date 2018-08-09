@@ -5,3 +5,6 @@ code/mask/
 *.bak
 *.swp
 .DS_Store
+__pycache__/
+code/__pycache__/
+code/.DS_Store
