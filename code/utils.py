@@ -125,7 +125,7 @@ def chp_folder(folder_path):
 
 def load_data(data_path, masks_path, crop_size, num_classes, samples=None, balance=False):
     # Load CNN data in a format readable by tflearn.
-    print('\n\n balance: ', balance)
+    # print('\n\n balance: ', balance)
     
     # create the reader object
     reader = hsi_cnn_reader(data_path,
@@ -136,7 +136,7 @@ def load_data(data_path, masks_path, crop_size, num_classes, samples=None, balan
                             )
 
     num_samples, num_bands, _, _ = reader.data_dims()
-    print('\n number of samples: ', num_samples, '\n')
+    # print('\n number of samples: ', num_samples, '\n')
 
     X = np.zeros((num_samples, crop_size, crop_size, num_bands), dtype=np.float32)
 
@@ -157,7 +157,7 @@ def load_data(data_path, masks_path, crop_size, num_classes, samples=None, balan
             samples_per_class[i] = num_samples
             i += 1
             total_samples += num_samples
-            print('loading class: ', i, ' - samples: ', num_samples)
+            # print('loading class: ', i, ' - samples: ', num_samples)
 
     X = X[0:total_samples, :, :, :]
 
