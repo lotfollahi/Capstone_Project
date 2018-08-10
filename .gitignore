@@ -8,3 +8,5 @@ code/mask/
 __pycache__/
 code/__pycache__/
 code/.DS_Store
+code/crop_1
+code/crop_mask_1
