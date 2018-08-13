@@ -10,3 +10,5 @@ code/__pycache__/
 code/.DS_Store
 code/crop_1
 code/crop_mask_1
+code/crop_2
+code/crop_mask_2
