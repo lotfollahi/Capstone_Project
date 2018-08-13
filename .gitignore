@@ -1,6 +1,7 @@
 code/right-pca16/
 code/left-pca16/
 code/mask/
+code/mask_updated
 .ipynb_checkpoints
 *.bak
 *.swp
