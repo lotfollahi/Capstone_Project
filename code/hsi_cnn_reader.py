@@ -119,7 +119,7 @@ class hsi_cnn_reader(object):
             file_list.append(f)
 
         file_list.sort()
-        print(file_list)
+        
         for f in file_list:
             if not f.startswith('.'):
                 file_name = path.join(self.__masks_folder_name, f)
