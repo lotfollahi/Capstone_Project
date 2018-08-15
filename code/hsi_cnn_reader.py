@@ -8,6 +8,7 @@ from math import floor
 import utils
 
 
+
 HDR_EXT = '.hdr'
 
 
