@@ -52,7 +52,7 @@ The left pictures are biopcies stained in lab and different regions labeled by p
 
 # ROC Curve  
 
-
+![](images/roc.png)
 
 
 
