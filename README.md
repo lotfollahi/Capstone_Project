@@ -25,3 +25,7 @@ The alternative approache is Fourier transform infrared spectroscopy (FTIR). The
 The dataset used in this study consisted of 540 breast tissue cores (with 1mm diameter) from different patients.
 The goal is tissue classification in histological samples to generate a chemical map that can be used by a pathologist to identify the spatial distribution of tissue types within the sample.
 
+# Work Flow 
+
+![](images/workflow.png)
+
