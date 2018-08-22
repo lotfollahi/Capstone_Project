@@ -37,6 +37,17 @@ Here is the CNN model used in this study:
 
 ![](images/CNN.png)
 
+# Test Results 
+
+The top two pictures are biopcies stained in lab and different regions labeled by pathologist. The bottom images are same biopcies and stained and labeld by model. 
+
+<center> The accuracy is 93% </center>
+
+![](images/test_results.png)
+
+
+
+
 
 
 
