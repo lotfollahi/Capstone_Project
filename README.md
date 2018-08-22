@@ -41,18 +41,18 @@ Here is the CNN model used in this study:
 
 The top two pictures are biopcies stained in lab and different regions labeled by pathologist. The bottom images are same biopcies and stained and labeld by model.
 
-<center>  ## Test accuracy is 93%   </center>
+## Test accuracy is 93% 
 
-<p align="center">
-  <images/test_results.png />
-</p>
+![](images/test_results.png)
 
-####![](images/test_results.png)
+# Normalized Confusion Matrix 
 
-
+![](images/confusion_matrix.png)
 
 
+# ROC Curve  
 
+![](images/roc.png)
 
 
 
