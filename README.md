@@ -29,3 +29,17 @@ The goal is tissue classification in histological samples to generate a chemical
 
 ![](images/workflow.png)
 
+# Model: Convolutional Nueral 
+
+Convolutional neural networks (CNNs) are the current method of choice for image analysis, since they exploit spatial features by enforcing local patterns within the image. In addition to extracting spatial correlations between pixels, CNNs can be implemented for hyperspectral images, extracting correlations across the entire spectrum for a given pixel. CNNs have therefore become an effective machine learning tool for image classification tasks. 
+
+Here is the CNN model used in this study: 
+
+![](images/CNN.png)
+
+
+
+
+
+
+
