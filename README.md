@@ -6,4 +6,4 @@
 
 Histopathology is the gold standard for cancer diagnosis and determining initial directions for treatment. The high level of morphological detail present in stained biopsies enables pathologists to determine the presence of cancer. 
 
-<center>![](images/biopcy_collection.png)</center> 
+<center> ![](images/biopcy_collection.png) </center> 
